@@ -1,3 +1,4 @@
+/*
 package com.yootk.Rent.work3.work3.Control;
 
 import com.yootk.Rent.work3.work3.Service.Rent;
@@ -39,3 +40,4 @@ public class transfer extends HttpServlet {
     doPost(request,response);
     }
 }
+*/
